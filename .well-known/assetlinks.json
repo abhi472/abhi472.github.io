@@ -1,0 +1,9 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "Unswipe",
+      "package_name": "com.abhilashi.unswipe",
+      "sha256_cert_fingerprints":
+      ["A7:7F:07:96:A6:10:E0:77:FC:14:E5:4D:2B:04:09:EB:04:70:BE:4A:CF:93:DE:25:50:19:DD:78:02:D4:4C:AC"]
+    }
+  }]
