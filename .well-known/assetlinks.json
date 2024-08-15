@@ -7,23 +7,4 @@
       "sha256_cert_fingerprints":
       ["9B:AC:FA:27:7F:D8:10:57:37:54:8D:A1:95:45:1B:F9:75:4E:CE:39:17:57:61:23:61:40:50:11:0C:39:11:6B"]
     }
-  },
-     {
-    "relation": ["delegate_permission/common.handle_all_urls"],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "com.abhilashi.unswipe",
-      "sha256_cert_fingerprints":
-      ["A7:7F:07:96:A6:10:E0:77:FC:14:E5:4D:2B:04:09:EB:04:70:BE:4A:CF:93:DE:25:50:19:DD:78:02:D4:4C:AC"]
-    }
-  },
-     {
-    "relation": ["delegate_permission/common.handle_all_urls"],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "com.abhilashi.unswipe",
-      "sha256_cert_fingerprints":
-      ["67:67:54:AE:69:B1:87:33:A1:87:49:37:FB:AB:E2:14:50:65:F0:E2:E2:C7:11:56:F7:43:3D:53:CE:E3:E5:13"]
-    }
-  },
 ]
